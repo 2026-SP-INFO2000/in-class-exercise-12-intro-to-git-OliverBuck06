@@ -1,0 +1,8 @@
+UGAFootball.sh
+entertainment
+organizer.sh
+output.txt
+recipes
+sports
+technology
+travel
